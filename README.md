@@ -12,11 +12,11 @@
 </p>
 <hr/>
 <div align="center">
-    <p style="font-size: 2em; font-family: monospace;">🤖 AI Enthusiast 🤖</p>
-    <img width="480em" src="./assets/Snake_can_be_completed.gif" alt="Zakończenie gry Snake"/>  
+    <p style="font-size: 8em; font-family: monospace;">🤖 AI Enthusiast 🤖</p>
+    <img width="640em" src="./assets/Snake_can_be_completed.gif" alt="Zakończenie gry Snake"/>  
 </div>
 <div style="text-align: left; margin-top: -5px;">
-    <span id="attribution-label" style="display: block; font-size: 0.8em; color: #888; padding-left: calc(50% - 240px);">
+    <span id="attribution-label" style="display: block; font-size: 0.1em; color: #888; padding-left: calc(50% - 240px);">
         GIF: "<a href="https://commons.wikimedia.org/wiki/File:Snake_can_be_completed.gif" style="color: #888;">Snake can be completed</a>" by Ustone07, CC BY-SA 3.0. (modified)
     </span>
 </div>
